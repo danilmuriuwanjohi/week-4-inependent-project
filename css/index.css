@@ -5,10 +5,21 @@
    background-repeat: no-repeat;
    background-size: 1500px;
    height: 100vh;
-   color: white;
+   color: rgb(121, 25, 25);
    margin: 50px;
    font-weight: 1000px;
+}; 
+/* .container-1{
+    display:flex
+} */
+
+.primary-content-1 {
+    float: right;
 };
 
+.pizzafry img{
+    height: 500px;
+    margin: 50px; 
+};
 
 
