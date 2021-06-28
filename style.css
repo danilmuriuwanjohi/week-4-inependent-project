@@ -8,7 +8,12 @@
    color: white;
    margin: 50px;
    font-weight: 1000px;
+}; 
+
+
+  .primary-content-2{
+   background-image: url("./images/vegetablegrilledpizza.jpeg");
+   margin: 40px;
+   background-repeat: no-repeat;
+   height: 100vh;
 };
-
-
-
