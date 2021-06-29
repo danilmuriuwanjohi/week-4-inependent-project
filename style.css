@@ -12,8 +12,10 @@
 
 
   .primary-content-2{
-   background-image: url("./images/vegetablegrilledpizza.jpeg");
+   background-image: url("images/Pizza-Toppings.jpg");
    margin: 40px;
    background-repeat: no-repeat;
-   height: 100vh;
+   height: 50vh;
+   background-position: center;
+   color: blue;
 };
