@@ -9,7 +9,7 @@
 ### PRODUCED BY (DANIEL MURIU WANJOHI)
 
 ## Description
- My application ranks children according to marks or rather scores that they attain in their daily tests abd exams. It provides a well detailed graph that helps the teacher to analyse the performance of the student on longterm basis. The application also offers ranking in individual subject such that the best can be ranked in those subjects. Also offers a detailed study and graphs of student performance on individual subjects. It also offers a space where teachers can analyse the general performance on individual subjects.
+ PIZZA TUMTUMMY app website is easy and fun to work with. Just go to the page and choose you size and order it  and it will be delivered right away. Delivery charges are included in the prices.
 ## Setup/Installation Requirements
 * first youll need a visual basic software
 * you'll also need to update your os
